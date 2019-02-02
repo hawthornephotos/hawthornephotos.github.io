@@ -19,12 +19,15 @@ li{
 }
 .my_link{
 	text-align: center;
-	text-decoration: italics;
+	font-style: italics;
 }
 .kitty{
 	height: 400px;
 	width: 200px;
 }
 .tree{
-	
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+  	width: 50%;
 }
